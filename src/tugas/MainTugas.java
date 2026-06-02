@@ -6,7 +6,7 @@ public class MainTugas {
 
         KelasKuliah kelas = new KelasKuliah();
 
-       // Menambah minimal 5 mahasiswa
+       // Menambah 5 mahasiswa
         kelas.tambahMahasiswa(new Mahasiswa("Rasyid", "2410010032", 85));
         kelas.tambahMahasiswa(new Mahasiswa("Jawir", "2410010052", 70));
         kelas.tambahMahasiswa(new Mahasiswa("Elizabeth", "2410010043", 55));

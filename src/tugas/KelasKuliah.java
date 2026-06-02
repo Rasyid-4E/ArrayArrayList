@@ -48,7 +48,7 @@ public class KelasKuliah {
                 + " | NPM : " + m.getNpm()
                 + " | Nilai : " + m.getNilai()
             );
-        }
+        }   
     }
 
       public int jumlahMahasiswa() {
