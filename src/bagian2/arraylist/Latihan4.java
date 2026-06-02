@@ -21,4 +21,4 @@ public class Latihan4 {
       System.out.println("Ada Apel? :" + buah.contains("Apel"));
       System.out.println("Jumlah : " + buah.size());
     }
-}
+}   
