@@ -1,6 +1,6 @@
 package bagian1.array;
 
-public class Latihan3mandiri {
+public class Latihan3mwandiri {
     public static void main(String[] args) {
 
         // === Latihan 1: Suhu Tertinggi & Terendah ===
